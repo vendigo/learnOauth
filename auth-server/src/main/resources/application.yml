@@ -1,0 +1,8 @@
+spring.datasource:
+  url: jdbc:h2:tcp://localhost/~/test;MODE=Oracle
+  username: sa
+  password:
+  driver-class-name: org.h2.Driver
+
+spring.jpa.properties.hibernate.hbm2ddl.auto: create
+spring.jpa.properties.hibernate.default_schema: PUBLIC

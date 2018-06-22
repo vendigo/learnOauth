@@ -1,0 +1,5 @@
+.idea
+*.iml
+
+/auth-server/target/
+/jwt-secured/target/
